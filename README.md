@@ -14,13 +14,13 @@ REST API created with Spring framework and Hibernate for learning purposes
 ## Demos
 
 ### /bihac/api/znamenitosti 
-![Primjer](http://prntscr.com/i0tnwx)
+![Primjer](https://image.prntscr.com/image/FThFkpdYQNGomBBiHfcqJw.png)
 
 ### /bihac/api/sportskiCentri
-![Primjer](http://prntscr.com/i0toq8)
+![Primjer](https://image.prntscr.com/image/q7lxLd94SzSC0jOxnDoocQ.png)
 
 ### /bihac/api/restorani
-![Primjer](http://prntscr.com/i0tq3g)
+![Primjer](https://image.prntscr.com/image/ilCFft2kQIKICinY4zrPFw.png)
 
     
 
