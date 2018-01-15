@@ -8,8 +8,8 @@ REST API created with Spring framework and Hibernate for learning purposes
     /bihac/api/restorani/{id}           GET          Returns the restaurant with the id:id
     /bihac/api/sportskiCentri           GET          Returns all sport centers with the id:id
     /bihac/api/sportskiCentri/{id}      GET          Returns the sport center with the id:id
-    /bihac/api/znamenitosti             GET          Returns all tourist atractions
-    /bihac/api/znamenitosti/{id}        GET          Returns the tourist atraction with the id:id
+    /bihac/api/znamenitosti             GET          Returns all tourist attractions
+    /bihac/api/znamenitosti/{id}        GET          Returns the tourist attraction with the id:id
     
 ## Demos
 
